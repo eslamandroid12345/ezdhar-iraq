@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "city_name_ar": "Dubai",
+        "city_name_en": "Dubai"
+    },
+    {
+        "id": 2,
+        "city_name_ar": "Sharjah",
+        "city_name_en": "Sharjah"
+    },
+    {
+        "id": 3,
+        "city_name_ar": "Abu Dhabi",
+        "city_name_en": "Abu Dhabi"
+    },
+    {
+        "id": 4,
+        "city_name_ar": "Al \u2018Ayn",
+        "city_name_en": "Al \u2018Ayn"
+    },
+    {
+        "id": 5,
+        "city_name_ar": "\u2018Ajm\u0101n",
+        "city_name_en": "\u2018Ajm\u0101n"
+    },
+    {
+        "id": 6,
+        "city_name_ar": "Ra\u2019s al Khaymah",
+        "city_name_en": "Ra\u2019s al Khaymah"
+    },
+    {
+        "id": 7,
+        "city_name_ar": "Al Fujayrah",
+        "city_name_en": "Al Fujayrah"
+    },
+    {
+        "id": 8,
+        "city_name_ar": "Umm al Qaywayn",
+        "city_name_en": "Umm al Qaywayn"
+    },
+    {
+        "id": 9,
+        "city_name_ar": "Mad\u012bnat Z\u0101yid",
+        "city_name_en": "Mad\u012bnat Z\u0101yid"
+    },
+    {
+        "id": 10,
+        "city_name_ar": "Shar\u012byah",
+        "city_name_en": "Shar\u012byah"
+    },
+    {
+        "id": 11,
+        "city_name_ar": "\u1e28a\u015fat al Bid\u012byah",
+        "city_name_en": "\u1e28a\u015fat al Bid\u012byah"
+    },
+    {
+        "id": 12,
+        "city_name_ar": "Ma\u015ff\u016b\u0163",
+        "city_name_en": "Ma\u015ff\u016b\u0163"
+    },
+    {
+        "id": 13,
+        "city_name_ar": "\u2018\u016ad al Bay\u1e11\u0101\u2019",
+        "city_name_en": "\u2018\u016ad al Bay\u1e11\u0101\u2019"
+    },
+    {
+        "id": 14,
+        "city_name_ar": "Qaray\u0163aysah",
+        "city_name_en": "Qaray\u0163aysah"
+    },
+    {
+        "id": 15,
+        "city_name_ar": "Margham",
+        "city_name_en": "Margham"
+    },
+    {
+        "id": 16,
+        "city_name_ar": "Qimah",
+        "city_name_en": "Qimah"
+    },
+    {
+        "id": 17,
+        "city_name_ar": "Hunaywah",
+        "city_name_en": "Hunaywah"
+    },
+    {
+        "id": 18,
+        "city_name_ar": "\u1e28ayl",
+        "city_name_en": "\u1e28ayl"
+    },
+    {
+        "id": 19,
+        "city_name_ar": "\u015eufayr\u012b",
+        "city_name_en": "\u015eufayr\u012b"
+    },
+    {
+        "id": 20,
+        "city_name_ar": "\u2018Urq\u016bb Juwayza",
+        "city_name_en": "\u2018Urq\u016bb Juwayza"
+    },
+    {
+        "id": 21,
+        "city_name_ar": "Ferij al Muhadham",
+        "city_name_en": "Ferij al Muhadham"
+    },
+    {
+        "id": 22,
+        "city_name_ar": "Al Faq\u2018",
+        "city_name_en": "Al Faq\u2018"
+    },
+    {
+        "id": 23,
+        "city_name_ar": "\u1e28att\u0101",
+        "city_name_en": "\u1e28att\u0101"
+    },
+    {
+        "id": 24,
+        "city_name_ar": "Al Lusayl\u012b",
+        "city_name_en": "Al Lusayl\u012b"
+    },
+    {
+        "id": 25,
+        "city_name_ar": "War\u012bs\u0101n",
+        "city_name_en": "War\u012bs\u0101n"
+    },
+    {
+        "id": 26,
+        "city_name_ar": "Mu\u1e11ayf\u012b",
+        "city_name_en": "Mu\u1e11ayf\u012b"
+    },
+    {
+        "id": 27,
+        "city_name_ar": "L\u016blayyah",
+        "city_name_en": "L\u016blayyah"
+    },
+    {
+        "id": 28,
+        "city_name_ar": "Al Jaz\u012brah",
+        "city_name_en": "Al Jaz\u012brah"
+    },
+    {
+        "id": 29,
+        "city_name_ar": "W\u0101d\u012b Sh\u012b",
+        "city_name_en": "W\u0101d\u012b Sh\u012b"
+    },
+    {
+        "id": 30,
+        "city_name_ar": "Khawr Fakk\u0101n",
+        "city_name_en": "Khawr Fakk\u0101n"
+    },
+    {
+        "id": 31,
+        "city_name_ar": "Ash Shu\u2018ayb",
+        "city_name_en": "Ash Shu\u2018ayb"
+    },
+    {
+        "id": 32,
+        "city_name_ar": "\u1e28iy\u0101wah",
+        "city_name_en": "\u1e28iy\u0101wah"
+    },
+    {
+        "id": 33,
+        "city_name_ar": "Ar Rufay\u015fah",
+        "city_name_en": "Ar Rufay\u015fah"
+    },
+    {
+        "id": 34,
+        "city_name_ar": "Raf\u0101\u2018",
+        "city_name_en": "Raf\u0101\u2018"
+    },
+    {
+        "id": 35,
+        "city_name_ar": "Sh\u012bs",
+        "city_name_en": "Sh\u012bs"
+    },
+    {
+        "id": 36,
+        "city_name_ar": "Na\u1e29wah",
+        "city_name_en": "Na\u1e29wah"
+    },
+    {
+        "id": 37,
+        "city_name_ar": "Zub\u0101rah",
+        "city_name_en": "Zub\u0101rah"
+    },
+    {
+        "id": 38,
+        "city_name_ar": "Al \u1e28amr\u012byah",
+        "city_name_en": "Al \u1e28amr\u012byah"
+    },
+    {
+        "id": 39,
+        "city_name_ar": "Adh Dhayd",
+        "city_name_en": "Adh Dhayd"
+    },
+    {
+        "id": 40,
+        "city_name_ar": "Al \u2018Awdah",
+        "city_name_en": "Al \u2018Awdah"
+    },
+    {
+        "id": 41,
+        "city_name_ar": "Qidfa\u2018",
+        "city_name_en": "Qidfa\u2018"
+    },
+    {
+        "id": 42,
+        "city_name_ar": "Bi\u0163nah",
+        "city_name_en": "Bi\u0163nah"
+    },
+    {
+        "id": 43,
+        "city_name_ar": "Mu\u2018tari\u1e11ah",
+        "city_name_en": "Mu\u2018tari\u1e11ah"
+    },
+    {
+        "id": 44,
+        "city_name_ar": "Theeb",
+        "city_name_en": "Theeb"
+    },
+    {
+        "id": 45,
+        "city_name_ar": "\u2018Uqayr",
+        "city_name_en": "\u2018Uqayr"
+    },
+    {
+        "id": 46,
+        "city_name_ar": "Wa\u2018bayn",
+        "city_name_en": "Wa\u2018bayn"
+    },
+    {
+        "id": 47,
+        "city_name_ar": "Al Qurayyah",
+        "city_name_en": "Al Qurayyah"
+    },
+    {
+        "id": 48,
+        "city_name_ar": "Al Man\u0101mah",
+        "city_name_en": "Al Man\u0101mah"
+    },
+    {
+        "id": 49,
+        "city_name_ar": "\u2018Ab\u0101dilah",
+        "city_name_en": "\u2018Ab\u0101dilah"
+    },
+    {
+        "id": 50,
+        "city_name_ar": "Al \u1e28al\u0101h",
+        "city_name_en": "Al \u1e28al\u0101h"
+    },
+    {
+        "id": 51,
+        "city_name_ar": "Ghurfah",
+        "city_name_en": "Ghurfah"
+    },
+    {
+        "id": 52,
+        "city_name_ar": "\u1e28ayl",
+        "city_name_en": "\u1e28ayl"
+    },
+    {
+        "id": 53,
+        "city_name_ar": "Ghayl",
+        "city_name_en": "Ghayl"
+    },
+    {
+        "id": 54,
+        "city_name_ar": "Al Fuqait",
+        "city_name_en": "Al Fuqait"
+    },
+    {
+        "id": 55,
+        "city_name_ar": "S\u0101\u2019if",
+        "city_name_en": "S\u0101\u2019if"
+    },
+    {
+        "id": 56,
+        "city_name_ar": "Bad\u012byah",
+        "city_name_en": "Bad\u012byah"
+    },
+    {
+        "id": 57,
+        "city_name_ar": "Far\u2018ah",
+        "city_name_en": "Far\u2018ah"
+    },
+    {
+        "id": 58,
+        "city_name_ar": "Mukhtaraqah",
+        "city_name_en": "Mukhtaraqah"
+    },
+    {
+        "id": 59,
+        "city_name_ar": "Yalah",
+        "city_name_en": "Yalah"
+    },
+    {
+        "id": 60,
+        "city_name_ar": "\u0162ayyibah",
+        "city_name_en": "\u0162ayyibah"
+    },
+    {
+        "id": 61,
+        "city_name_ar": "\u1e28\u0101rat Zu\u0163\u016b\u0163",
+        "city_name_en": "\u1e28\u0101rat Zu\u0163\u016b\u0163"
+    },
+    {
+        "id": 62,
+        "city_name_ar": "Khawr Kalb\u0101",
+        "city_name_en": "Khawr Kalb\u0101"
+    },
+    {
+        "id": 63,
+        "city_name_ar": "Al \u2018Uyaynah",
+        "city_name_en": "Al \u2018Uyaynah"
+    },
+    {
+        "id": 64,
+        "city_name_ar": "R\u016bl \u1e10adn\u0101",
+        "city_name_en": "R\u016bl \u1e10adn\u0101"
+    },
+    {
+        "id": 65,
+        "city_name_ar": "Murba\u1e29",
+        "city_name_en": "Murba\u1e29"
+    },
+    {
+        "id": 66,
+        "city_name_ar": "Rughayl\u0101t",
+        "city_name_en": "Rughayl\u0101t"
+    },
+    {
+        "id": 67,
+        "city_name_ar": "Tawian",
+        "city_name_en": "Tawian"
+    },
+    {
+        "id": 68,
+        "city_name_ar": "Shaw\u012byah",
+        "city_name_en": "Shaw\u012byah"
+    },
+    {
+        "id": 69,
+        "city_name_ar": "\u1e28arrah",
+        "city_name_en": "\u1e28arrah"
+    },
+    {
+        "id": 70,
+        "city_name_ar": "Dib\u0101",
+        "city_name_en": "Dib\u0101"
+    },
+    {
+        "id": 71,
+        "city_name_ar": "Sinnah",
+        "city_name_en": "Sinnah"
+    },
+    {
+        "id": 72,
+        "city_name_ar": "Riy\u0101mah",
+        "city_name_en": "Riy\u0101mah"
+    },
+    {
+        "id": 73,
+        "city_name_ar": "D\u016bb",
+        "city_name_en": "D\u016bb"
+    },
+    {
+        "id": 74,
+        "city_name_ar": "Sram",
+        "city_name_en": "Sram"
+    },
+    {
+        "id": 75,
+        "city_name_ar": "\u2018Asamah",
+        "city_name_en": "\u2018Asamah"
+    },
+    {
+        "id": 76,
+        "city_name_ar": "Al \u2018Ayn al Ghum\u016br",
+        "city_name_en": "Al \u2018Ayn al Ghum\u016br"
+    },
+    {
+        "id": 77,
+        "city_name_ar": "Kalb\u0101",
+        "city_name_en": "Kalb\u0101"
+    },
+    {
+        "id": 78,
+        "city_name_ar": "Wa\u1e29lah",
+        "city_name_en": "Wa\u1e29lah"
+    },
+    {
+        "id": 79,
+        "city_name_ar": "Thoban",
+        "city_name_en": "Thoban"
+    },
+    {
+        "id": 80,
+        "city_name_ar": "\u1e28afarah",
+        "city_name_en": "\u1e28afarah"
+    },
+    {
+        "id": 81,
+        "city_name_ar": "Al Gissemari",
+        "city_name_en": "Al Gissemari"
+    },
+    {
+        "id": 82,
+        "city_name_ar": "\u1e28ay\u0101t",
+        "city_name_en": "\u1e28ay\u0101t"
+    },
+    {
+        "id": 83,
+        "city_name_ar": "Khulayb\u012byah",
+        "city_name_en": "Khulayb\u012byah"
+    },
+    {
+        "id": 84,
+        "city_name_ar": "Z\u0327an\u1e29ah",
+        "city_name_en": "Z\u0327an\u1e29ah"
+    },
+    {
+        "id": 85,
+        "city_name_ar": "Saqamqam",
+        "city_name_en": "Saqamqam"
+    },
+    {
+        "id": 86,
+        "city_name_ar": "\u1e10\u0101hir",
+        "city_name_en": "\u1e10\u0101hir"
+    },
+    {
+        "id": 87,
+        "city_name_ar": "Jareef",
+        "city_name_en": "Jareef"
+    },
+    {
+        "id": 88,
+        "city_name_ar": "Girath",
+        "city_name_en": "Girath"
+    },
+    {
+        "id": 89,
+        "city_name_ar": "Al Kub\u016bs",
+        "city_name_en": "Al Kub\u016bs"
+    },
+    {
+        "id": 90,
+        "city_name_ar": "\u2018Ashashah",
+        "city_name_en": "\u2018Ashashah"
+    },
+    {
+        "id": 91,
+        "city_name_ar": "S\u012bj\u012b",
+        "city_name_en": "S\u012bj\u012b"
+    },
+    {
+        "id": 92,
+        "city_name_ar": "\u2018Aqqah",
+        "city_name_en": "\u2018Aqqah"
+    },
+    {
+        "id": 93,
+        "city_name_ar": "Ras Dibba",
+        "city_name_en": "Ras Dibba"
+    },
+    {
+        "id": 94,
+        "city_name_ar": "Nuhayy",
+        "city_name_en": "Nuhayy"
+    },
+    {
+        "id": 95,
+        "city_name_ar": "\u1e10ab\u2018ah",
+        "city_name_en": "\u1e10ab\u2018ah"
+    },
+    {
+        "id": 96,
+        "city_name_ar": "Murba\u1e11",
+        "city_name_en": "Murba\u1e11"
+    },
+    {
+        "id": 97,
+        "city_name_ar": "\u015eafad",
+        "city_name_en": "\u015eafad"
+    },
+    {
+        "id": 98,
+        "city_name_ar": "\u0162ar\u012bqat Ja\u2018d",
+        "city_name_en": "\u0162ar\u012bqat Ja\u2018d"
+    },
+    {
+        "id": 99,
+        "city_name_ar": "Mawrid",
+        "city_name_en": "Mawrid"
+    },
+    {
+        "id": 100,
+        "city_name_ar": "\u0162ar\u012bf Kalb\u0101",
+        "city_name_en": "\u0162ar\u012bf Kalb\u0101"
+    }
+]

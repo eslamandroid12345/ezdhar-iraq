@@ -1,0 +1,1982 @@
+[
+  {
+    "city_name_ar": "15 \u0645\u0627\u064a\u0648",
+    "city_name_en": "15 May",
+    "id": 1
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0627\u0632\u0628\u0643\u064a\u0629",
+    "city_name_en": "Al Azbakeyah",
+    "id": 2
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u0633\u0627\u062a\u064a\u0646",
+    "city_name_en": "Al Basatin",
+    "id": 3
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062a\u0628\u064a\u0646",
+    "city_name_en": "Tebin",
+    "id": 4
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062e\u0644\u064a\u0641\u0629",
+    "city_name_en": "El-Khalifa",
+    "id": 5
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0631\u0627\u0633\u0629",
+    "city_name_en": "El darrasa",
+    "id": 6
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0631\u0628 \u0627\u0644\u0627\u062d\u0645\u0631",
+    "city_name_en": "Aldarb Alahmar",
+    "id": 7
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621",
+    "city_name_en": "Zawya al-Hamra",
+    "id": 8
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u064a\u062a\u0648\u0646",
+    "city_name_en": "El-Zaytoun",
+    "id": 9
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0627\u062d\u0644",
+    "city_name_en": "Sahel",
+    "id": 10
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0644\u0627\u0645",
+    "city_name_en": "El Salam",
+    "id": 11
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628",
+    "city_name_en": "Sayeda Zeinab",
+    "id": 12
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u0631\u0627\u0628\u064a\u0629",
+    "city_name_en": "El Sharabeya",
+    "id": 13
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0631\u0648\u0642",
+    "city_name_en": "Shorouk",
+    "id": 14
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0638\u0627\u0647\u0631",
+    "city_name_en": "El Daher",
+    "id": 15
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u062a\u0628\u0629",
+    "city_name_en": "Ataba",
+    "id": 16
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Cairo",
+    "id": 17
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0631\u062c",
+    "city_name_en": "El Marg",
+    "id": 18
+  },
+  {
+    "city_name_ar": "\u0639\u0632\u0628\u0629 \u0627\u0644\u0646\u062e\u0644",
+    "city_name_en": "Ezbet el Nakhl",
+    "id": 19
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0637\u0631\u064a\u0629",
+    "city_name_en": "Matareya",
+    "id": 20
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0639\u0627\u062f\u0649",
+    "city_name_en": "Maadi",
+    "id": 21
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0639\u0635\u0631\u0629",
+    "city_name_en": "Maasara",
+    "id": 22
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0642\u0637\u0645",
+    "city_name_en": "Mokattam",
+    "id": 23
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u064a\u0644",
+    "city_name_en": "Manyal",
+    "id": 24
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0648\u0633\u0643\u0649",
+    "city_name_en": "Mosky",
+    "id": 25
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u0632\u0647\u0629",
+    "city_name_en": "Nozha",
+    "id": 26
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0648\u0627\u064a\u0644\u0649",
+    "city_name_en": "Waily",
+    "id": 27
+  },
+  {
+    "city_name_ar": "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0629",
+    "city_name_en": "Bab al-Shereia",
+    "id": 28
+  },
+  {
+    "city_name_ar": "\u0628\u0648\u0644\u0627\u0642",
+    "city_name_en": "Bolaq",
+    "id": 29
+  },
+  {
+    "city_name_ar": "\u062c\u0627\u0631\u062f\u0646 \u0633\u064a\u062a\u0649",
+    "city_name_en": "Garden City",
+    "id": 30
+  },
+  {
+    "city_name_ar": "\u062d\u062f\u0627\u0626\u0642 \u0627\u0644\u0642\u0628\u0629",
+    "city_name_en": "Hadayek El-Kobba",
+    "id": 31
+  },
+  {
+    "city_name_ar": "\u062d\u0644\u0648\u0627\u0646",
+    "city_name_en": "Helwan",
+    "id": 32
+  },
+  {
+    "city_name_ar": "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645",
+    "city_name_en": "Dar Al Salam",
+    "id": 33
+  },
+  {
+    "city_name_ar": "\u0634\u0628\u0631\u0627",
+    "city_name_en": "Shubra",
+    "id": 34
+  },
+  {
+    "city_name_ar": "\u0637\u0631\u0647",
+    "city_name_en": "Tura",
+    "id": 35
+  },
+  {
+    "city_name_ar": "\u0639\u0627\u0628\u062f\u064a\u0646",
+    "city_name_en": "Abdeen",
+    "id": 36
+  },
+  {
+    "city_name_ar": "\u0639\u0628\u0627\u0633\u064a\u0629",
+    "city_name_en": "Abaseya",
+    "id": 37
+  },
+  {
+    "city_name_ar": "\u0639\u064a\u0646 \u0634\u0645\u0633",
+    "city_name_en": "Ain Shams",
+    "id": 38
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631",
+    "city_name_en": "Nasr City",
+    "id": 39
+  },
+  {
+    "city_name_ar": "\u0645\u0635\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Heliopolis",
+    "id": 40
+  },
+  {
+    "city_name_ar": "\u0645\u0635\u0631 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+    "city_name_en": "Masr Al Qadima",
+    "id": 41
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0634\u064a\u0629 \u0646\u0627\u0635\u0631",
+    "city_name_en": "Mansheya Nasir",
+    "id": 42
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u0629 \u0628\u062f\u0631",
+    "city_name_en": "Badr City",
+    "id": 43
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0639\u0628\u0648\u0631",
+    "city_name_en": "Obour City",
+    "id": 44
+  },
+  {
+    "city_name_ar": "\u0648\u0633\u0637 \u0627\u0644\u0628\u0644\u062f",
+    "city_name_en": "Cairo Downtown",
+    "id": 45
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u0645\u0627\u0644\u0643",
+    "city_name_en": "Zamalek",
+    "id": 46
+  },
+  {
+    "city_name_ar": "\u0642\u0635\u0631 \u0627\u0644\u0646\u064a\u0644",
+    "city_name_en": "Kasr El Nile",
+    "id": 47
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0631\u062d\u0627\u0628",
+    "city_name_en": "Rehab",
+    "id": 48
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0637\u0627\u0645\u064a\u0629",
+    "city_name_en": "Katameya",
+    "id": 49
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u062a\u064a",
+    "city_name_en": "Madinty",
+    "id": 50
+  },
+  {
+    "city_name_ar": "\u0631\u0648\u0636 \u0627\u0644\u0641\u0631\u062c",
+    "city_name_en": "Rod Alfarag",
+    "id": 51
+  },
+  {
+    "city_name_ar": "\u0634\u064a\u0631\u0627\u062a\u0648\u0646",
+    "city_name_en": "Sheraton",
+    "id": 52
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u0645\u0627\u0644\u064a\u0629",
+    "city_name_en": "El-Gamaleya",
+    "id": 53
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0627\u0634\u0631 \u0645\u0646 \u0631\u0645\u0636\u0627\u0646",
+    "city_name_en": "10th of Ramadan City",
+    "id": 54
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0644\u0645\u064a\u0629",
+    "city_name_en": "Helmeyat Alzaytoun",
+    "id": 55
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u0632\u0647\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Nozha",
+    "id": 56
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629",
+    "city_name_en": "Capital New",
+    "id": 57
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u064a\u0632\u0629",
+    "city_name_en": "Giza",
+    "id": 58
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0627\u062f\u0633 \u0645\u0646 \u0623\u0643\u062a\u0648\u0628\u0631",
+    "city_name_en": "Sixth of October",
+    "id": 59
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u064a\u062e \u0632\u0627\u064a\u062f",
+    "city_name_en": "Cheikh Zayed",
+    "id": 60
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0648\u0627\u0645\u062f\u064a\u0629",
+    "city_name_en": "Hawamdiyah",
+    "id": 61
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u062f\u0631\u0634\u064a\u0646",
+    "city_name_en": "Al Badrasheen",
+    "id": 62
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0635\u0641",
+    "city_name_en": "Saf",
+    "id": 63
+  },
+  {
+    "city_name_ar": "\u0623\u0637\u0641\u064a\u062d",
+    "city_name_en": "Atfih",
+    "id": 64
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u064a\u0627\u0637",
+    "city_name_en": "Al Ayat",
+    "id": 65
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u064a",
+    "city_name_en": "Al-Bawaiti",
+    "id": 66
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0642\u0646\u0627\u0637\u0631",
+    "city_name_en": "ManshiyetAl Qanater",
+    "id": 67
+  },
+  {
+    "city_name_ar": "\u0623\u0648\u0633\u064a\u0645",
+    "city_name_en": "Oaseem",
+    "id": 68
+  },
+  {
+    "city_name_ar": "\u0643\u0631\u062f\u0627\u0633\u0629",
+    "city_name_en": "Kerdasa",
+    "id": 69
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0627\u0644\u0646\u0645\u0631\u0633",
+    "city_name_en": "Abu Nomros",
+    "id": 70
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u063a\u0637\u0627\u0637\u064a",
+    "city_name_en": "Kafr Ghati",
+    "id": 71
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0628\u0643\u0627\u0631\u064a",
+    "city_name_en": "Manshiyet Al Bakari",
+    "id": 72
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0642\u0649",
+    "city_name_en": "Dokki",
+    "id": 73
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u062c\u0648\u0632\u0629",
+    "city_name_en": "Agouza",
+    "id": 74
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0647\u0631\u0645",
+    "city_name_en": "Haram",
+    "id": 75
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0648\u0631\u0627\u0642",
+    "city_name_en": "Warraq",
+    "id": 76
+  },
+  {
+    "city_name_ar": "\u0627\u0645\u0628\u0627\u0628\u0629",
+    "city_name_en": "Imbaba",
+    "id": 77
+  },
+  {
+    "city_name_ar": "\u0628\u0648\u0644\u0627\u0642 \u0627\u0644\u062f\u0643\u0631\u0648\u0631",
+    "city_name_en": "Boulaq Dakrour",
+    "id": 78
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0648\u0627\u062d\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629",
+    "city_name_en": "Al Wahat Al Baharia",
+    "id": 79
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0645\u0631\u0627\u0646\u064a\u0629",
+    "city_name_en": "Omraneya",
+    "id": 80
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u064a\u0628",
+    "city_name_en": "Moneeb",
+    "id": 81
+  },
+  {
+    "city_name_ar": "\u0628\u064a\u0646 \u0627\u0644\u0633\u0631\u0627\u064a\u0627\u062a",
+    "city_name_en": "Bin Alsarayat",
+    "id": 82
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0643\u064a\u062a \u0643\u0627\u062a",
+    "city_name_en": "Kit Kat",
+    "id": 83
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0647\u0646\u062f\u0633\u064a\u0646",
+    "city_name_en": "Mohandessin",
+    "id": 84
+  },
+  {
+    "city_name_ar": "\u0641\u064a\u0635\u0644",
+    "city_name_en": "Faisal",
+    "id": 85
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0631\u0648\u0627\u0634",
+    "city_name_en": "Abu Rawash",
+    "id": 86
+  },
+  {
+    "city_name_ar": "\u062d\u062f\u0627\u0626\u0642 \u0627\u0644\u0623\u0647\u0631\u0627\u0645",
+    "city_name_en": "Hadayek Alahram",
+    "id": 87
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0631\u0627\u0646\u064a\u0629",
+    "city_name_en": "Haraneya",
+    "id": 88
+  },
+  {
+    "city_name_ar": "\u062d\u062f\u0627\u0626\u0642 \u0627\u0643\u062a\u0648\u0628\u0631",
+    "city_name_en": "Hadayek October",
+    "id": 89
+  },
+  {
+    "city_name_ar": "\u0635\u0641\u0637 \u0627\u0644\u0644\u0628\u0646",
+    "city_name_en": "Saft Allaban",
+    "id": 90
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0630\u0643\u064a\u0629",
+    "city_name_en": "Smart Village",
+    "id": 91
+  },
+  {
+    "city_name_ar": "\u0627\u0631\u0636 \u0627\u0644\u0644\u0648\u0627\u0621",
+    "city_name_en": "Ard Ellwaa",
+    "id": 92
+  },
+  {
+    "city_name_ar": "\u0627\u0628\u0648 \u0642\u064a\u0631",
+    "city_name_en": "Abu Qir",
+    "id": 93
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0627\u0628\u0631\u0627\u0647\u064a\u0645\u064a\u0629",
+    "city_name_en": "Al Ibrahimeyah",
+    "id": 94
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0623\u0632\u0627\u0631\u064a\u0637\u0629",
+    "city_name_en": "Azarita",
+    "id": 95
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0627\u0646\u0641\u0648\u0634\u0649",
+    "city_name_en": "Anfoushi",
+    "id": 96
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u062e\u064a\u0644\u0629",
+    "city_name_en": "Dekheila",
+    "id": 97
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u064a\u0648\u0641",
+    "city_name_en": "El Soyof",
+    "id": 98
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629",
+    "city_name_en": "Ameria",
+    "id": 99
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0644\u0628\u0627\u0646",
+    "city_name_en": "El Labban",
+    "id": 100
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0641\u0631\u0648\u0632\u0629",
+    "city_name_en": "Al Mafrouza",
+    "id": 101
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u062a\u0632\u0647",
+    "city_name_en": "El Montaza",
+    "id": 102
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u0634\u064a\u0629",
+    "city_name_en": "Mansheya",
+    "id": 103
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629",
+    "city_name_en": "Naseria",
+    "id": 104
+  },
+  {
+    "city_name_ar": "\u0627\u0645\u0628\u0631\u0648\u0632\u0648",
+    "city_name_en": "Ambrozo",
+    "id": 105
+  },
+  {
+    "city_name_ar": "\u0628\u0627\u0628 \u0634\u0631\u0642",
+    "city_name_en": "Bab Sharq",
+    "id": 106
+  },
+  {
+    "city_name_ar": "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628",
+    "city_name_en": "Bourj Alarab",
+    "id": 107
+  },
+  {
+    "city_name_ar": "\u0633\u062a\u0627\u0646\u0644\u0649",
+    "city_name_en": "Stanley",
+    "id": 108
+  },
+  {
+    "city_name_ar": "\u0633\u0645\u0648\u062d\u0629",
+    "city_name_en": "Smouha",
+    "id": 109
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u0649 \u0628\u0634\u0631",
+    "city_name_en": "Sidi Bishr",
+    "id": 110
+  },
+  {
+    "city_name_ar": "\u0634\u062f\u0633",
+    "city_name_en": "Shads",
+    "id": 111
+  },
+  {
+    "city_name_ar": "\u063a\u064a\u0637 \u0627\u0644\u0639\u0646\u0628",
+    "city_name_en": "Gheet Alenab",
+    "id": 112
+  },
+  {
+    "city_name_ar": "\u0641\u0644\u0645\u064a\u0646\u062c",
+    "city_name_en": "Fleming",
+    "id": 113
+  },
+  {
+    "city_name_ar": "\u0641\u064a\u0643\u062a\u0648\u0631\u064a\u0627",
+    "city_name_en": "Victoria",
+    "id": 114
+  },
+  {
+    "city_name_ar": "\u0643\u0627\u0645\u0628 \u0634\u064a\u0632\u0627\u0631",
+    "city_name_en": "Camp Shizar",
+    "id": 115
+  },
+  {
+    "city_name_ar": "\u0643\u0631\u0645\u0648\u0632",
+    "city_name_en": "Karmooz",
+    "id": 116
+  },
+  {
+    "city_name_ar": "\u0645\u062d\u0637\u0629 \u0627\u0644\u0631\u0645\u0644",
+    "city_name_en": "Mahta Alraml",
+    "id": 117
+  },
+  {
+    "city_name_ar": "\u0645\u064a\u0646\u0627 \u0627\u0644\u0628\u0635\u0644",
+    "city_name_en": "Mina El-Basal",
+    "id": 118
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0635\u0627\u0641\u0631\u0629",
+    "city_name_en": "Asafra",
+    "id": 119
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u062c\u0645\u064a",
+    "city_name_en": "Agamy",
+    "id": 120
+  },
+  {
+    "city_name_ar": "\u0628\u0643\u0648\u0633",
+    "city_name_en": "Bakos",
+    "id": 121
+  },
+  {
+    "city_name_ar": "\u0628\u0648\u0644\u0643\u0644\u064a",
+    "city_name_en": "Boulkly",
+    "id": 122
+  },
+  {
+    "city_name_ar": "\u0643\u0644\u064a\u0648\u0628\u0627\u062a\u0631\u0627",
+    "city_name_en": "Cleopatra",
+    "id": 123
+  },
+  {
+    "city_name_ar": "\u062c\u0644\u064a\u0645",
+    "city_name_en": "Glim",
+    "id": 124
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0629",
+    "city_name_en": "Al Mamurah",
+    "id": 125
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u062f\u0631\u0629",
+    "city_name_en": "Al Mandara",
+    "id": 126
+  },
+  {
+    "city_name_ar": "\u0645\u062d\u0631\u0645 \u0628\u0643",
+    "city_name_en": "Moharam Bek",
+    "id": 127
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u0627\u0637\u0628\u064a",
+    "city_name_en": "Elshatby",
+    "id": 128
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631",
+    "city_name_en": "Sidi Gaber",
+    "id": 129
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
+    "city_name_en": "North Coast\/sahel",
+    "id": 130
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0636\u0631\u0629",
+    "city_name_en": "Alhadra",
+    "id": 131
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0637\u0627\u0631\u064a\u0646",
+    "city_name_en": "Alattarin",
+    "id": 132
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u064a \u0643\u0631\u064a\u0631",
+    "city_name_en": "Sidi Kerir",
+    "id": 133
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u0645\u0631\u0643",
+    "city_name_en": "Elgomrok",
+    "id": 134
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0643\u0633",
+    "city_name_en": "Al Max",
+    "id": 135
+  },
+  {
+    "city_name_ar": "\u0645\u0627\u0631\u064a\u0646\u0627",
+    "city_name_en": "Marina",
+    "id": 136
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629",
+    "city_name_en": "Mansoura",
+    "id": 137
+  },
+  {
+    "city_name_ar": "\u0637\u0644\u062e\u0627",
+    "city_name_en": "Talkha",
+    "id": 138
+  },
+  {
+    "city_name_ar": "\u0645\u064a\u062a \u063a\u0645\u0631",
+    "city_name_en": "Mitt Ghamr",
+    "id": 139
+  },
+  {
+    "city_name_ar": "\u062f\u0643\u0631\u0646\u0633",
+    "city_name_en": "Dekernes",
+    "id": 140
+  },
+  {
+    "city_name_ar": "\u0623\u062c\u0627",
+    "city_name_en": "Aga",
+    "id": 141
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u064a\u0629 \u0627\u0644\u0646\u0635\u0631",
+    "city_name_en": "Menia El Nasr",
+    "id": 142
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0646\u0628\u0644\u0627\u0648\u064a\u0646",
+    "city_name_en": "Sinbillawin",
+    "id": 143
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0643\u0631\u062f\u064a",
+    "city_name_en": "El Kurdi",
+    "id": 144
+  },
+  {
+    "city_name_ar": "\u0628\u0646\u064a \u0639\u0628\u064a\u062f",
+    "city_name_en": "Bani Ubaid",
+    "id": 145
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u0632\u0644\u0629",
+    "city_name_en": "Al Manzala",
+    "id": 146
+  },
+  {
+    "city_name_ar": "\u062a\u0645\u064a \u0627\u0644\u0623\u0645\u062f\u064a\u062f",
+    "city_name_en": "tami al'amdid",
+    "id": 147
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u0645\u0627\u0644\u064a\u0629",
+    "city_name_en": "aljamalia",
+    "id": 148
+  },
+  {
+    "city_name_ar": "\u0634\u0631\u0628\u064a\u0646",
+    "city_name_en": "Sherbin",
+    "id": 149
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0637\u0631\u064a\u0629",
+    "city_name_en": "Mataria",
+    "id": 150
+  },
+  {
+    "city_name_ar": "\u0628\u0644\u0642\u0627\u0633",
+    "city_name_en": "Belqas",
+    "id": 151
+  },
+  {
+    "city_name_ar": "\u0645\u064a\u062a \u0633\u0644\u0633\u064a\u0644",
+    "city_name_en": "Meet Salsil",
+    "id": 152
+  },
+  {
+    "city_name_ar": "\u062c\u0645\u0635\u0629",
+    "city_name_en": "Gamasa",
+    "id": 153
+  },
+  {
+    "city_name_ar": "\u0645\u062d\u0644\u0629 \u062f\u0645\u0646\u0629",
+    "city_name_en": "Mahalat Damana",
+    "id": 154
+  },
+  {
+    "city_name_ar": "\u0646\u0628\u0631\u0648\u0647",
+    "city_name_en": "Nabroh",
+    "id": 155
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u063a\u0631\u062f\u0642\u0629",
+    "city_name_en": "Hurghada",
+    "id": 156
+  },
+  {
+    "city_name_ar": "\u0631\u0623\u0633 \u063a\u0627\u0631\u0628",
+    "city_name_en": "Ras Ghareb",
+    "id": 157
+  },
+  {
+    "city_name_ar": "\u0633\u0641\u0627\u062c\u0627",
+    "city_name_en": "Safaga",
+    "id": 158
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0635\u064a\u0631",
+    "city_name_en": "El Qusiar",
+    "id": 159
+  },
+  {
+    "city_name_ar": "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645",
+    "city_name_en": "Marsa Alam",
+    "id": 160
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u0644\u0627\u062a\u064a\u0646",
+    "city_name_en": "Shalatin",
+    "id": 161
+  },
+  {
+    "city_name_ar": "\u062d\u0644\u0627\u064a\u0628",
+    "city_name_en": "Halaib",
+    "id": 162
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0647\u0627\u0631",
+    "city_name_en": "Aldahar",
+    "id": 163
+  },
+  {
+    "city_name_ar": "\u062f\u0645\u0646\u0647\u0648\u0631",
+    "city_name_en": "Damanhour",
+    "id": 164
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0627\u0644\u062f\u0648\u0627\u0631",
+    "city_name_en": "Kafr El Dawar",
+    "id": 165
+  },
+  {
+    "city_name_ar": "\u0631\u0634\u064a\u062f",
+    "city_name_en": "Rashid",
+    "id": 166
+  },
+  {
+    "city_name_ar": "\u0625\u062f\u0643\u0648",
+    "city_name_en": "Edco",
+    "id": 167
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0627\u0644\u0645\u0637\u0627\u0645\u064a\u0631",
+    "city_name_en": "Abu al-Matamir",
+    "id": 168
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u062d\u0645\u0635",
+    "city_name_en": "Abu Homs",
+    "id": 169
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0644\u0646\u062c\u0627\u062a",
+    "city_name_en": "Delengat",
+    "id": 170
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u062d\u0645\u0648\u062f\u064a\u0629",
+    "city_name_en": "Mahmoudiyah",
+    "id": 171
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0631\u062d\u0645\u0627\u0646\u064a\u0629",
+    "city_name_en": "Rahmaniyah",
+    "id": 172
+  },
+  {
+    "city_name_ar": "\u0625\u064a\u062a\u0627\u064a \u0627\u0644\u0628\u0627\u0631\u0648\u062f",
+    "city_name_en": "Itai Baroud",
+    "id": 173
+  },
+  {
+    "city_name_ar": "\u062d\u0648\u0634 \u0639\u064a\u0633\u0649",
+    "city_name_en": "Housh Eissa",
+    "id": 174
+  },
+  {
+    "city_name_ar": "\u0634\u0628\u0631\u0627\u062e\u064a\u062a",
+    "city_name_en": "Shubrakhit",
+    "id": 175
+  },
+  {
+    "city_name_ar": "\u0643\u0648\u0645 \u062d\u0645\u0627\u062f\u0629",
+    "city_name_en": "Kom Hamada",
+    "id": 176
+  },
+  {
+    "city_name_ar": "\u0628\u062f\u0631",
+    "city_name_en": "Badr",
+    "id": 177
+  },
+  {
+    "city_name_ar": "\u0648\u0627\u062f\u064a \u0627\u0644\u0646\u0637\u0631\u0648\u0646",
+    "city_name_en": "Wadi Natrun",
+    "id": 178
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u0648\u0628\u0627\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Nubaria",
+    "id": 179
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u0648\u0628\u0627\u0631\u064a\u0629",
+    "city_name_en": "Alnoubareya",
+    "id": 180
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0641\u064a\u0648\u0645",
+    "city_name_en": "Fayoum",
+    "id": 181
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0641\u064a\u0648\u0645 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Fayoum El Gedida",
+    "id": 182
+  },
+  {
+    "city_name_ar": "\u0637\u0627\u0645\u064a\u0629",
+    "city_name_en": "Tamiya",
+    "id": 183
+  },
+  {
+    "city_name_ar": "\u0633\u0646\u0648\u0631\u0633",
+    "city_name_en": "Snores",
+    "id": 184
+  },
+  {
+    "city_name_ar": "\u0625\u0637\u0633\u0627",
+    "city_name_en": "Etsa",
+    "id": 185
+  },
+  {
+    "city_name_ar": "\u0625\u0628\u0634\u0648\u0627\u064a",
+    "city_name_en": "Epschway",
+    "id": 186
+  },
+  {
+    "city_name_ar": "\u064a\u0648\u0633\u0641 \u0627\u0644\u0635\u062f\u064a\u0642",
+    "city_name_en": "Yusuf El Sediaq",
+    "id": 187
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0627\u062f\u0642\u0629",
+    "city_name_en": "Hadqa",
+    "id": 188
+  },
+  {
+    "city_name_ar": "\u0627\u0637\u0633\u0627",
+    "city_name_en": "Atsa",
+    "id": 189
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629",
+    "city_name_en": "Algamaa",
+    "id": 190
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u064a\u0627\u0644\u0629",
+    "city_name_en": "Sayala",
+    "id": 191
+  },
+  {
+    "city_name_ar": "\u0637\u0646\u0637\u0627",
+    "city_name_en": "Tanta",
+    "id": 192
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u062d\u0644\u0629 \u0627\u0644\u0643\u0628\u0631\u0649",
+    "city_name_en": "Al Mahalla Al Kobra",
+    "id": 193
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0627\u0644\u0632\u064a\u0627\u062a",
+    "city_name_en": "Kafr El Zayat",
+    "id": 194
+  },
+  {
+    "city_name_ar": "\u0632\u0641\u062a\u0649",
+    "city_name_en": "Zefta",
+    "id": 195
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0646\u0637\u0629",
+    "city_name_en": "El Santa",
+    "id": 196
+  },
+  {
+    "city_name_ar": "\u0642\u0637\u0648\u0631",
+    "city_name_en": "Qutour",
+    "id": 197
+  },
+  {
+    "city_name_ar": "\u0628\u0633\u064a\u0648\u0646",
+    "city_name_en": "Basion",
+    "id": 198
+  },
+  {
+    "city_name_ar": "\u0633\u0645\u0646\u0648\u062f",
+    "city_name_en": "Samannoud",
+    "id": 199
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629",
+    "city_name_en": "Ismailia",
+    "id": 200
+  },
+  {
+    "city_name_ar": "\u0641\u0627\u064a\u062f",
+    "city_name_en": "Fayed",
+    "id": 201
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0646\u0637\u0631\u0629 \u0634\u0631\u0642",
+    "city_name_en": "Qantara Sharq",
+    "id": 202
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0646\u0637\u0631\u0629 \u063a\u0631\u0628",
+    "city_name_en": "Qantara Gharb",
+    "id": 203
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062a\u0644 \u0627\u0644\u0643\u0628\u064a\u0631",
+    "city_name_en": "El Tal El Kabier",
+    "id": 204
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0635\u0648\u064a\u0631",
+    "city_name_en": "Abu Sawir",
+    "id": 205
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0635\u0627\u0635\u064a\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Kasasien El Gedida",
+    "id": 206
+  },
+  {
+    "city_name_ar": "\u0646\u0641\u064a\u0634\u0629",
+    "city_name_en": "Nefesha",
+    "id": 207
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u064a\u062e \u0632\u0627\u064a\u062f",
+    "city_name_en": "Sheikh Zayed",
+    "id": 208
+  },
+  {
+    "city_name_ar": "\u0634\u0628\u064a\u0646 \u0627\u0644\u0643\u0648\u0645",
+    "city_name_en": "Shbeen El Koom",
+    "id": 209
+  },
+  {
+    "city_name_ar": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0633\u0627\u062f\u0627\u062a",
+    "city_name_en": "Sadat City",
+    "id": 210
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0648\u0641",
+    "city_name_en": "Menouf",
+    "id": 211
+  },
+  {
+    "city_name_ar": "\u0633\u0631\u0633 \u0627\u0644\u0644\u064a\u0627\u0646",
+    "city_name_en": "Sars El-Layan",
+    "id": 212
+  },
+  {
+    "city_name_ar": "\u0623\u0634\u0645\u0648\u0646",
+    "city_name_en": "Ashmon",
+    "id": 213
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u0627\u062c\u0648\u0631",
+    "city_name_en": "Al Bagor",
+    "id": 214
+  },
+  {
+    "city_name_ar": "\u0642\u0648\u064a\u0633\u0646\u0627",
+    "city_name_en": "Quesna",
+    "id": 215
+  },
+  {
+    "city_name_ar": "\u0628\u0631\u0643\u0629 \u0627\u0644\u0633\u0628\u0639",
+    "city_name_en": "Berkat El Saba",
+    "id": 216
+  },
+  {
+    "city_name_ar": "\u062a\u0644\u0627",
+    "city_name_en": "Tala",
+    "id": 217
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u0647\u062f\u0627\u0621",
+    "city_name_en": "Al Shohada",
+    "id": 218
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u064a\u0627",
+    "city_name_en": "Minya",
+    "id": 219
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Minya El Gedida",
+    "id": 220
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u062f\u0648\u0629",
+    "city_name_en": "El Adwa",
+    "id": 221
+  },
+  {
+    "city_name_ar": "\u0645\u063a\u0627\u063a\u0629",
+    "city_name_en": "Magagha",
+    "id": 222
+  },
+  {
+    "city_name_ar": "\u0628\u0646\u064a \u0645\u0632\u0627\u0631",
+    "city_name_en": "Bani Mazar",
+    "id": 223
+  },
+  {
+    "city_name_ar": "\u0645\u0637\u0627\u064a",
+    "city_name_en": "Mattay",
+    "id": 224
+  },
+  {
+    "city_name_ar": "\u0633\u0645\u0627\u0644\u0648\u0637",
+    "city_name_en": "Samalut",
+    "id": 225
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0641\u0643\u0631\u064a\u0629",
+    "city_name_en": "Madinat El Fekria",
+    "id": 226
+  },
+  {
+    "city_name_ar": "\u0645\u0644\u0648\u064a",
+    "city_name_en": "Meloy",
+    "id": 227
+  },
+  {
+    "city_name_ar": "\u062f\u064a\u0631 \u0645\u0648\u0627\u0633",
+    "city_name_en": "Deir Mawas",
+    "id": 228
+  },
+  {
+    "city_name_ar": "\u0627\u0628\u0648 \u0642\u0631\u0642\u0627\u0635",
+    "city_name_en": "Abu Qurqas",
+    "id": 229
+  },
+  {
+    "city_name_ar": "\u0627\u0631\u0636 \u0633\u0644\u0637\u0627\u0646",
+    "city_name_en": "Ard Sultan",
+    "id": 230
+  },
+  {
+    "city_name_ar": "\u0628\u0646\u0647\u0627",
+    "city_name_en": "Banha",
+    "id": 231
+  },
+  {
+    "city_name_ar": "\u0642\u0644\u064a\u0648\u0628",
+    "city_name_en": "Qalyub",
+    "id": 232
+  },
+  {
+    "city_name_ar": "\u0634\u0628\u0631\u0627 \u0627\u0644\u062e\u064a\u0645\u0629",
+    "city_name_en": "Shubra Al Khaimah",
+    "id": 233
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0646\u0627\u0637\u0631 \u0627\u0644\u062e\u064a\u0631\u064a\u0629",
+    "city_name_en": "Al Qanater Charity",
+    "id": 234
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062e\u0627\u0646\u0643\u0629",
+    "city_name_en": "Khanka",
+    "id": 235
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0634\u0643\u0631",
+    "city_name_en": "Kafr Shukr",
+    "id": 236
+  },
+  {
+    "city_name_ar": "\u0637\u0648\u062e",
+    "city_name_en": "Tukh",
+    "id": 237
+  },
+  {
+    "city_name_ar": "\u0642\u0647\u0627",
+    "city_name_en": "Qaha",
+    "id": 238
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0628\u0648\u0631",
+    "city_name_en": "Obour",
+    "id": 239
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062e\u0635\u0648\u0635",
+    "city_name_en": "Khosous",
+    "id": 240
+  },
+  {
+    "city_name_ar": "\u0634\u0628\u064a\u0646 \u0627\u0644\u0642\u0646\u0627\u0637\u0631",
+    "city_name_en": "Shibin Al Qanater",
+    "id": 241
+  },
+  {
+    "city_name_ar": "\u0645\u0633\u0637\u0631\u062f",
+    "city_name_en": "Mostorod",
+    "id": 242
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062e\u0627\u0631\u062c\u0629",
+    "city_name_en": "El Kharga",
+    "id": 243
+  },
+  {
+    "city_name_ar": "\u0628\u0627\u0631\u064a\u0633",
+    "city_name_en": "Paris",
+    "id": 244
+  },
+  {
+    "city_name_ar": "\u0645\u0648\u0637",
+    "city_name_en": "Mout",
+    "id": 245
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0641\u0631\u0627\u0641\u0631\u0629",
+    "city_name_en": "Farafra",
+    "id": 246
+  },
+  {
+    "city_name_ar": "\u0628\u0644\u0627\u0637",
+    "city_name_en": "Balat",
+    "id": 247
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062f\u0627\u062e\u0644\u0629",
+    "city_name_en": "Dakhla",
+    "id": 248
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0648\u064a\u0633",
+    "city_name_en": "Suez",
+    "id": 249
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062c\u0646\u0627\u064a\u0646",
+    "city_name_en": "Alganayen",
+    "id": 250
+  },
+  {
+    "city_name_ar": "\u0639\u062a\u0627\u0642\u0629",
+    "city_name_en": "Ataqah",
+    "id": 251
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u062e\u0646\u0629",
+    "city_name_en": "Ain Sokhna",
+    "id": 252
+  },
+  {
+    "city_name_ar": "\u0641\u064a\u0635\u0644",
+    "city_name_en": "Faysal",
+    "id": 253
+  },
+  {
+    "city_name_ar": "\u0623\u0633\u0648\u0627\u0646",
+    "city_name_en": "Aswan",
+    "id": 254
+  },
+  {
+    "city_name_ar": "\u0623\u0633\u0648\u0627\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Aswan El Gedida",
+    "id": 255
+  },
+  {
+    "city_name_ar": "\u062f\u0631\u0627\u0648",
+    "city_name_en": "Drau",
+    "id": 256
+  },
+  {
+    "city_name_ar": "\u0643\u0648\u0645 \u0623\u0645\u0628\u0648",
+    "city_name_en": "Kom Ombo",
+    "id": 257
+  },
+  {
+    "city_name_ar": "\u0646\u0635\u0631 \u0627\u0644\u0646\u0648\u0628\u0629",
+    "city_name_en": "Nasr Al Nuba",
+    "id": 258
+  },
+  {
+    "city_name_ar": "\u0643\u0644\u0627\u0628\u0634\u0629",
+    "city_name_en": "Kalabsha",
+    "id": 259
+  },
+  {
+    "city_name_ar": "\u0625\u062f\u0641\u0648",
+    "city_name_en": "Edfu",
+    "id": 260
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0631\u062f\u064a\u0633\u064a\u0629",
+    "city_name_en": "Al-Radisiyah",
+    "id": 261
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u0635\u064a\u0644\u064a\u0629",
+    "city_name_en": "Al Basilia",
+    "id": 262
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0628\u0627\u0639\u064a\u0629",
+    "city_name_en": "Al Sibaeia",
+    "id": 263
+  },
+  {
+    "city_name_ar": "\u0627\u0628\u0648\u0633\u0645\u0628\u0644 \u0627\u0644\u0633\u064a\u0627\u062d\u064a\u0629",
+    "city_name_en": "Abo Simbl Al Siyahia",
+    "id": 264
+  },
+  {
+    "city_name_ar": "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645",
+    "city_name_en": "Marsa Alam",
+    "id": 265
+  },
+  {
+    "city_name_ar": "\u0623\u0633\u064a\u0648\u0637",
+    "city_name_en": "Assiut",
+    "id": 266
+  },
+  {
+    "city_name_ar": "\u0623\u0633\u064a\u0648\u0637 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Assiut El Gedida",
+    "id": 267
+  },
+  {
+    "city_name_ar": "\u062f\u064a\u0631\u0648\u0637",
+    "city_name_en": "Dayrout",
+    "id": 268
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0641\u0644\u0648\u0637",
+    "city_name_en": "Manfalut",
+    "id": 269
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0648\u0635\u064a\u0629",
+    "city_name_en": "Qusiya",
+    "id": 270
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0646\u0648\u0628",
+    "city_name_en": "Abnoub",
+    "id": 271
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u062a\u064a\u062c",
+    "city_name_en": "Abu Tig",
+    "id": 272
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u063a\u0646\u0627\u064a\u0645",
+    "city_name_en": "El Ghanaim",
+    "id": 273
+  },
+  {
+    "city_name_ar": "\u0633\u0627\u062d\u0644 \u0633\u0644\u064a\u0645",
+    "city_name_en": "Sahel Selim",
+    "id": 274
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u062f\u0627\u0631\u064a",
+    "city_name_en": "El Badari",
+    "id": 275
+  },
+  {
+    "city_name_ar": "\u0635\u062f\u0641\u0627",
+    "city_name_en": "Sidfa",
+    "id": 276
+  },
+  {
+    "city_name_ar": "\u0628\u0646\u064a \u0633\u0648\u064a\u0641",
+    "city_name_en": "Bani Sweif",
+    "id": 277
+  },
+  {
+    "city_name_ar": "\u0628\u0646\u064a \u0633\u0648\u064a\u0641 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Beni Suef El Gedida",
+    "id": 278
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0648\u0627\u0633\u0637\u0649",
+    "city_name_en": "Al Wasta",
+    "id": 279
+  },
+  {
+    "city_name_ar": "\u0646\u0627\u0635\u0631",
+    "city_name_en": "Naser",
+    "id": 280
+  },
+  {
+    "city_name_ar": "\u0625\u0647\u0646\u0627\u0633\u064a\u0627",
+    "city_name_en": "Ehnasia",
+    "id": 281
+  },
+  {
+    "city_name_ar": "\u0628\u0628\u0627",
+    "city_name_en": "beba",
+    "id": 282
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0641\u0634\u0646",
+    "city_name_en": "Fashn",
+    "id": 283
+  },
+  {
+    "city_name_ar": "\u0633\u0645\u0633\u0637\u0627",
+    "city_name_en": "Somasta",
+    "id": 284
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0627\u0628\u0627\u0635\u064a\u0631\u0649",
+    "city_name_en": "Alabbaseri",
+    "id": 285
+  },
+  {
+    "city_name_ar": "\u0645\u0642\u0628\u0644",
+    "city_name_en": "Mokbel",
+    "id": 286
+  },
+  {
+    "city_name_ar": "\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+    "city_name_en": "PorSaid",
+    "id": 287
+  },
+  {
+    "city_name_ar": "\u0628\u0648\u0631\u0641\u0624\u0627\u062f",
+    "city_name_en": "Port Fouad",
+    "id": 288
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0631\u0628",
+    "city_name_en": "Alarab",
+    "id": 289
+  },
+  {
+    "city_name_ar": "\u062d\u0649 \u0627\u0644\u0632\u0647\u0648\u0631",
+    "city_name_en": "Zohour",
+    "id": 290
+  },
+  {
+    "city_name_ar": "\u062d\u0649 \u0627\u0644\u0634\u0631\u0642",
+    "city_name_en": "Alsharq",
+    "id": 291
+  },
+  {
+    "city_name_ar": "\u062d\u0649 \u0627\u0644\u0636\u0648\u0627\u062d\u0649",
+    "city_name_en": "Aldawahi",
+    "id": 292
+  },
+  {
+    "city_name_ar": "\u062d\u0649 \u0627\u0644\u0645\u0646\u0627\u062e",
+    "city_name_en": "Almanakh",
+    "id": 293
+  },
+  {
+    "city_name_ar": "\u062d\u0649 \u0645\u0628\u0627\u0631\u0643",
+    "city_name_en": "Mubarak",
+    "id": 294
+  },
+  {
+    "city_name_ar": "\u062f\u0645\u064a\u0627\u0637",
+    "city_name_en": "Damietta",
+    "id": 295
+  },
+  {
+    "city_name_ar": "\u062f\u0645\u064a\u0627\u0637 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Damietta",
+    "id": 296
+  },
+  {
+    "city_name_ar": "\u0631\u0623\u0633 \u0627\u0644\u0628\u0631",
+    "city_name_en": "Ras El Bar",
+    "id": 297
+  },
+  {
+    "city_name_ar": "\u0641\u0627\u0631\u0633\u0643\u0648\u0631",
+    "city_name_en": "Faraskour",
+    "id": 298
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u0631\u0642\u0627",
+    "city_name_en": "Zarqa",
+    "id": 299
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0631\u0648",
+    "city_name_en": "alsaru",
+    "id": 300
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0631\u0648\u0636\u0629",
+    "city_name_en": "alruwda",
+    "id": 301
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0627\u0644\u0628\u0637\u064a\u062e",
+    "city_name_en": "Kafr El-Batikh",
+    "id": 302
+  },
+  {
+    "city_name_ar": "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0631\u062c",
+    "city_name_en": "Azbet Al Burg",
+    "id": 303
+  },
+  {
+    "city_name_ar": "\u0645\u064a\u062a \u0623\u0628\u0648 \u063a\u0627\u0644\u0628",
+    "city_name_en": "Meet Abou Ghalib",
+    "id": 304
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0633\u0639\u062f",
+    "city_name_en": "Kafr Saad",
+    "id": 305
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642",
+    "city_name_en": "Zagazig",
+    "id": 306
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0627\u0634\u0631 \u0645\u0646 \u0631\u0645\u0636\u0627\u0646",
+    "city_name_en": "Al Ashr Men Ramadan",
+    "id": 307
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u064a\u0627 \u0627\u0644\u0642\u0645\u062d",
+    "city_name_en": "Minya Al Qamh",
+    "id": 308
+  },
+  {
+    "city_name_ar": "\u0628\u0644\u0628\u064a\u0633",
+    "city_name_en": "Belbeis",
+    "id": 309
+  },
+  {
+    "city_name_ar": "\u0645\u0634\u062a\u0648\u0644 \u0627\u0644\u0633\u0648\u0642",
+    "city_name_en": "Mashtoul El Souq",
+    "id": 310
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0646\u0627\u064a\u0627\u062a",
+    "city_name_en": "Qenaiat",
+    "id": 311
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u062d\u0645\u0627\u062f",
+    "city_name_en": "Abu Hammad",
+    "id": 312
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0631\u064a\u0646",
+    "city_name_en": "El Qurain",
+    "id": 313
+  },
+  {
+    "city_name_ar": "\u0647\u0647\u064a\u0627",
+    "city_name_en": "Hehia",
+    "id": 314
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0643\u0628\u064a\u0631",
+    "city_name_en": "Abu Kabir",
+    "id": 315
+  },
+  {
+    "city_name_ar": "\u0641\u0627\u0642\u0648\u0633",
+    "city_name_en": "Faccus",
+    "id": 316
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "El Salihia El Gedida",
+    "id": 317
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0625\u0628\u0631\u0627\u0647\u064a\u0645\u064a\u0629",
+    "city_name_en": "Al Ibrahimiyah",
+    "id": 318
+  },
+  {
+    "city_name_ar": "\u062f\u064a\u0631\u0628 \u0646\u062c\u0645",
+    "city_name_en": "Deirb Negm",
+    "id": 319
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0635\u0642\u0631",
+    "city_name_en": "Kafr Saqr",
+    "id": 320
+  },
+  {
+    "city_name_ar": "\u0623\u0648\u0644\u0627\u062f \u0635\u0642\u0631",
+    "city_name_en": "Awlad Saqr",
+    "id": 321
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0633\u064a\u0646\u064a\u0629",
+    "city_name_en": "Husseiniya",
+    "id": 322
+  },
+  {
+    "city_name_ar": "\u0635\u0627\u0646 \u0627\u0644\u062d\u062c\u0631 \u0627\u0644\u0642\u0628\u0644\u064a\u0629",
+    "city_name_en": "san alhajar alqablia",
+    "id": 323
+  },
+  {
+    "city_name_ar": "\u0645\u0646\u0634\u0623\u0629 \u0623\u0628\u0648 \u0639\u0645\u0631",
+    "city_name_en": "Manshayat Abu Omar",
+    "id": 324
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0637\u0648\u0631",
+    "city_name_en": "Al Toor",
+    "id": 325
+  },
+  {
+    "city_name_ar": "\u0634\u0631\u0645 \u0627\u0644\u0634\u064a\u062e",
+    "city_name_en": "Sharm El-Shaikh",
+    "id": 326
+  },
+  {
+    "city_name_ar": "\u062f\u0647\u0628",
+    "city_name_en": "Dahab",
+    "id": 327
+  },
+  {
+    "city_name_ar": "\u0646\u0648\u064a\u0628\u0639",
+    "city_name_en": "Nuweiba",
+    "id": 328
+  },
+  {
+    "city_name_ar": "\u0637\u0627\u0628\u0627",
+    "city_name_en": "Taba",
+    "id": 329
+  },
+  {
+    "city_name_ar": "\u0633\u0627\u0646\u062a \u0643\u0627\u062a\u0631\u064a\u0646",
+    "city_name_en": "Saint Catherine",
+    "id": 330
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0631\u062f\u064a\u0633",
+    "city_name_en": "Abu Redis",
+    "id": 331
+  },
+  {
+    "city_name_ar": "\u0623\u0628\u0648 \u0632\u0646\u064a\u0645\u0629",
+    "city_name_en": "Abu Zenaima",
+    "id": 332
+  },
+  {
+    "city_name_ar": "\u0631\u0623\u0633 \u0633\u062f\u0631",
+    "city_name_en": "Ras Sidr",
+    "id": 333
+  },
+  {
+    "city_name_ar": "\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+    "city_name_en": "Kafr El Sheikh",
+    "id": 334
+  },
+  {
+    "city_name_ar": "\u0648\u0633\u0637 \u0627\u0644\u0628\u0644\u062f \u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+    "city_name_en": "Kafr El Sheikh Downtown",
+    "id": 335
+  },
+  {
+    "city_name_ar": "\u062f\u0633\u0648\u0642",
+    "city_name_en": "Desouq",
+    "id": 336
+  },
+  {
+    "city_name_ar": "\u0641\u0648\u0647",
+    "city_name_en": "Fooh",
+    "id": 337
+  },
+  {
+    "city_name_ar": "\u0645\u0637\u0648\u0628\u0633",
+    "city_name_en": "Metobas",
+    "id": 338
+  },
+  {
+    "city_name_ar": "\u0628\u0631\u062c \u0627\u0644\u0628\u0631\u0644\u0633",
+    "city_name_en": "Burg Al Burullus",
+    "id": 339
+  },
+  {
+    "city_name_ar": "\u0628\u0644\u0637\u064a\u0645",
+    "city_name_en": "Baltim",
+    "id": 340
+  },
+  {
+    "city_name_ar": "\u0645\u0635\u064a\u0641 \u0628\u0644\u0637\u064a\u0645",
+    "city_name_en": "Masief Baltim",
+    "id": 341
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0627\u0645\u0648\u0644",
+    "city_name_en": "Hamol",
+    "id": 342
+  },
+  {
+    "city_name_ar": "\u0628\u064a\u0644\u0627",
+    "city_name_en": "Bella",
+    "id": 343
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0631\u064a\u0627\u0636",
+    "city_name_en": "Riyadh",
+    "id": 344
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645",
+    "city_name_en": "Sidi Salm",
+    "id": 345
+  },
+  {
+    "city_name_ar": "\u0642\u0644\u064a\u0646",
+    "city_name_en": "Qellen",
+    "id": 346
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u064a \u063a\u0627\u0632\u064a",
+    "city_name_en": "Sidi Ghazi",
+    "id": 347
+  },
+  {
+    "city_name_ar": "\u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d",
+    "city_name_en": "Marsa Matrouh",
+    "id": 348
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0645\u0627\u0645",
+    "city_name_en": "El Hamam",
+    "id": 349
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0644\u0645\u064a\u0646",
+    "city_name_en": "Alamein",
+    "id": 350
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0636\u0628\u0639\u0629",
+    "city_name_en": "Dabaa",
+    "id": 351
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0646\u062c\u064a\u0644\u0629",
+    "city_name_en": "Al-Nagila",
+    "id": 352
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u062f\u064a \u0628\u0631\u0627\u0646\u064a",
+    "city_name_en": "Sidi Brani",
+    "id": 353
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0644\u0648\u0645",
+    "city_name_en": "Salloum",
+    "id": 354
+  },
+  {
+    "city_name_ar": "\u0633\u064a\u0648\u0629",
+    "city_name_en": "Siwa",
+    "id": 355
+  },
+  {
+    "city_name_ar": "\u0645\u0627\u0631\u064a\u0646\u0627",
+    "city_name_en": "Marina",
+    "id": 356
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0644\u0634\u0645\u0627\u0644\u0649",
+    "city_name_en": "North Coast",
+    "id": 357
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0623\u0642\u0635\u0631",
+    "city_name_en": "Luxor",
+    "id": 358
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0623\u0642\u0635\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Luxor",
+    "id": 359
+  },
+  {
+    "city_name_ar": "\u0625\u0633\u0646\u0627",
+    "city_name_en": "Esna",
+    "id": 360
+  },
+  {
+    "city_name_ar": "\u0637\u064a\u0628\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Tiba",
+    "id": 361
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0632\u064a\u0646\u064a\u0629",
+    "city_name_en": "Al ziynia",
+    "id": 362
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u064a\u0627\u0636\u064a\u0629",
+    "city_name_en": "Al Bayadieh",
+    "id": 363
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0642\u0631\u0646\u0629",
+    "city_name_en": "Al Qarna",
+    "id": 364
+  },
+  {
+    "city_name_ar": "\u0623\u0631\u0645\u0646\u062a",
+    "city_name_en": "Armant",
+    "id": 365
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0637\u0648\u062f",
+    "city_name_en": "Al Tud",
+    "id": 366
+  },
+  {
+    "city_name_ar": "\u0642\u0646\u0627",
+    "city_name_en": "Qena",
+    "id": 367
+  },
+  {
+    "city_name_ar": "\u0642\u0646\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "New Qena",
+    "id": 368
+  },
+  {
+    "city_name_ar": "\u0627\u0628\u0648 \u0637\u0634\u062a",
+    "city_name_en": "Abu Tesht",
+    "id": 369
+  },
+  {
+    "city_name_ar": "\u0646\u062c\u0639 \u062d\u0645\u0627\u062f\u064a",
+    "city_name_en": "Nag Hammadi",
+    "id": 370
+  },
+  {
+    "city_name_ar": "\u062f\u0634\u0646\u0627",
+    "city_name_en": "Deshna",
+    "id": 371
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0648\u0642\u0641",
+    "city_name_en": "Alwaqf",
+    "id": 372
+  },
+  {
+    "city_name_ar": "\u0642\u0641\u0637",
+    "city_name_en": "Qaft",
+    "id": 373
+  },
+  {
+    "city_name_ar": "\u0646\u0642\u0627\u062f\u0629",
+    "city_name_en": "Naqada",
+    "id": 374
+  },
+  {
+    "city_name_ar": "\u0641\u0631\u0634\u0648\u0637",
+    "city_name_en": "Farshout",
+    "id": 375
+  },
+  {
+    "city_name_ar": "\u0642\u0648\u0635",
+    "city_name_en": "Quos",
+    "id": 376
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0639\u0631\u064a\u0634",
+    "city_name_en": "Arish",
+    "id": 377
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0634\u064a\u062e \u0632\u0648\u064a\u062f",
+    "city_name_en": "Sheikh Zowaid",
+    "id": 378
+  },
+  {
+    "city_name_ar": "\u0646\u062e\u0644",
+    "city_name_en": "Nakhl",
+    "id": 379
+  },
+  {
+    "city_name_ar": "\u0631\u0641\u062d",
+    "city_name_en": "Rafah",
+    "id": 380
+  },
+  {
+    "city_name_ar": "\u0628\u0626\u0631 \u0627\u0644\u0639\u0628\u062f",
+    "city_name_en": "Bir al-Abed",
+    "id": 381
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u062d\u0633\u0646\u0629",
+    "city_name_en": "Al Hasana",
+    "id": 382
+  },
+  {
+    "city_name_ar": "\u0633\u0648\u0647\u0627\u062c",
+    "city_name_en": "Sohag",
+    "id": 383
+  },
+  {
+    "city_name_ar": "\u0633\u0648\u0647\u0627\u062c \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Sohag El Gedida",
+    "id": 384
+  },
+  {
+    "city_name_ar": "\u0623\u062e\u0645\u064a\u0645",
+    "city_name_en": "Akhmeem",
+    "id": 385
+  },
+  {
+    "city_name_ar": "\u0623\u062e\u0645\u064a\u0645 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "city_name_en": "Akhmim El Gedida",
+    "id": 386
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0628\u0644\u064a\u0646\u0627",
+    "city_name_en": "Albalina",
+    "id": 387
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0631\u0627\u063a\u0629",
+    "city_name_en": "El Maragha",
+    "id": 388
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0645\u0646\u0634\u0623\u0629",
+    "city_name_en": "almunsha'a",
+    "id": 389
+  },
+  {
+    "city_name_ar": "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645",
+    "city_name_en": "Dar AISalaam",
+    "id": 390
+  },
+  {
+    "city_name_ar": "\u062c\u0631\u062c\u0627",
+    "city_name_en": "Gerga",
+    "id": 391
+  },
+  {
+    "city_name_ar": "\u062c\u0647\u064a\u0646\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+    "city_name_en": "Jahina Al Gharbia",
+    "id": 392
+  },
+  {
+    "city_name_ar": "\u0633\u0627\u0642\u0644\u062a\u0647",
+    "city_name_en": "Saqilatuh",
+    "id": 393
+  },
+  {
+    "city_name_ar": "\u0637\u0645\u0627",
+    "city_name_en": "Tama",
+    "id": 394
+  },
+  {
+    "city_name_ar": "\u0637\u0647\u0637\u0627",
+    "city_name_en": "Tahta",
+    "id": 395
+  },
+  {
+    "city_name_ar": "\u0627\u0644\u0643\u0648\u062b\u0631",
+    "city_name_en": "Alkawthar",
+    "id": 396
+  }
+]
